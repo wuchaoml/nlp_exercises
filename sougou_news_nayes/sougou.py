@@ -130,9 +130,5 @@ def main():
     plt.ylabel('test_accuracy')
     plt.show()
 
-
-
-
-
 if __name__ == '__main__':
     main()
